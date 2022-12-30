@@ -1,0 +1,57 @@
+{
+  "Name" : "My works",
+  "works" : [
+    {
+      "name" : "Фильм Шаг вперед",
+      "opisanie" : [
+        "Фотографии",
+        "Видео и песни",
+        "Ссылки на сайт"
+      ],
+      "img" : "films.png",
+      "sait" : "https://tedige.github.io/abtfilms/"
+      
+    },
+    {
+      "name" : "To Do List",
+      "opisanie" : [
+        "Можно добавить заметку",
+        "Можно поставить галочку",
+        "Удалять заметки"
+      ],
+      "img" : "todolist.png",
+      "sait" : "https://tedige.github.io/todolist/"
+    },
+    {
+      "name" : "Аниме",
+      "opisanie" : [
+        "Описаны 3 аниме",
+        "Наруто",
+        "Песнь ночных сов",
+        "Безумный азарт"
+      ],
+      "img" : "anime.png",
+      "sait" : "https://tedige.github.io/anime/"
+    }
+    ,
+    {
+      "name" : "Калькулятор",
+      "opisanie" : [
+        "Очень удобный калькулятор",
+        "Может посчитать как целые цисла, так и вещественные"
+      ],
+      "img" : "calculator.png",
+      "sait" : "https://tedige.github.io/calculator/"
+    }
+    ,
+    {
+      "name" : "Тут уже больше аниме",
+      "opisanie" : [
+        "6 разных аниме",
+        "Информации про них"
+      ],
+      "img" : "anime2.png",
+      "sait" : "https://tedige.github.io/anime2/"
+    }
+  ] 
+  }
